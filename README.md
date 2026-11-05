@@ -6,7 +6,17 @@
 </div>
 <p align="center"><b>elgyfhri</b> · Frontend or full-stack engineer<br/><sub>Building in public on GitHub.</sub></p>
 
-<p align="center"><a href="https://github.com/elgyfhri">GitHub</a></p>
+<p align="center">
+  <a href="https://github.com/elgyfhri">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://instagram.com/elgyfhri">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://wa.me/6283811623746">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+  </a>
+</p>
 
 <details open>
 <summary><b>📌 Top projects</b></summary>
