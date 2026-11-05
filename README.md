@@ -1,14 +1,68 @@
-<h1 align="center">Hi 👋, I'm Muhamad Elgy Fahri Hidayat</h1>
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/muhamad elgy fahri hidayat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhamad elgy fahri hidayat" height="30" width="40" /></a>
-<a href="https://instagram.com/elgyfhri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="elgyfhri" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/elgyfhri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="elgyfhri" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/hero?username=elgyfhri&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F143575530%3Fu%3Dcf438fe4b838912362f4f3973a81a153b8b578d3%26v%3D4" alt="elgyfhri hero visual" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+<p align="center"><b>elgyfhri</b> · Frontend or full-stack engineer<br/><sub>Building in public on GitHub.</sub></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=elgyfhri&show_icons=true&locale=en&layout=compact" alt="elgyfhri" /></p>
+<p align="center"><a href="https://github.com/elgyfhri">GitHub</a></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=elgyfhri&show_icons=true&locale=en" alt="elgyfhri" /></p>
+<details open>
+<summary><b>📌 Top projects</b></summary>
+<br/>
+
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/projects?username=elgyfhri&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F143575530%3Fu%3Dcf438fe4b838912362f4f3973a81a153b8b578d3%26v%3D4" alt="elgyfhri projects visual" />
+</p>
+
+- [repo-inggris](https://github.com/elgyfhri/repo-inggris) · ★ 2
+- [inggris-repo](https://github.com/elgyfhri/inggris-repo) · ★ 2
+- [inggris-repository](https://github.com/elgyfhri/inggris-repository) · ★ 2
+- [inggris-uts](https://github.com/elgyfhri/inggris-uts) · ★ 2
+- [testes](https://github.com/elgyfhri/testes) · ★ 2
+- [ukk_kasir](https://github.com/elgyfhri/ukk_kasir) · ★ 2
+
+</details>
+
+<details>
+<summary><b>🧰 Stack</b></summary>
+<br/>
+
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/stack?username=elgyfhri&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F143575530%3Fu%3Dcf438fe4b838912362f4f3973a81a153b8b578d3%26v%3D4" alt="elgyfhri stack visual" />
+</p>
+
+</details>
+
+<details>
+<summary><b>📊 By the numbers</b></summary>
+<br/>
+
+<b>20</b> public repositories, <b>30</b> stars, <b>45</b> contributions in the last year, a longest streak of <b>4</b> days and <b>2</b> followers.
+
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/stats?username=elgyfhri&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F143575530%3Fu%3Dcf438fe4b838912362f4f3973a81a153b8b578d3%26v%3D4" alt="elgyfhri stats visual" />
+</p>
+
+</details>
+
+<details>
+<summary><b>🟩 Activity</b></summary>
+<br/>
+
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/heatmap?username=elgyfhri&theme=neon" alt="elgyfhri contribution activity" />
+</p>
+
+</details>
+
+<details>
+<summary><b>👋 Say hello</b></summary>
+<br/>
+
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/social?username=elgyfhri&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F143575530%3Fu%3Dcf438fe4b838912362f4f3973a81a153b8b578d3%26v%3D4" alt="elgyfhri social visual" />
+</p>
+
+</details>
+
+<p align="center"><sub>elgyfhri · Everything hub generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
