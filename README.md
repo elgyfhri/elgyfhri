@@ -2,6 +2,9 @@
   <img src="https://www.gitskins.com/api/section/hero?username=elgyfhri&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F143575530%3Fu%3Dcf438fe4b838912362f4f3973a81a153b8b578d3%26v%3D4" alt="elgyfhri hero visual" />
 </p>
 
+<div align="center">
+  <img src="https://img.shields.io/badge/meow_♡-black" />
+</div>
 <p align="center"><b>elgyfhri</b> · Frontend or full-stack engineer<br/><sub>Building in public on GitHub.</sub></p>
 
 <p align="center"><a href="https://github.com/elgyfhri">GitHub</a></p>
